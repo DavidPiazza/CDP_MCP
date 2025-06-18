@@ -51,6 +51,11 @@ cd CDP_MCP
 
 ### 2. Install Dependencies
 ```bash
+pip install -r requirements.txt
+```
+
+Or install individually:
+```bash
 pip install mcp soundfile numpy
 ```
 
